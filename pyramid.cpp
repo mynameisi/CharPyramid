@@ -2,6 +2,9 @@
 #include <stdlib.h>
 
 int main(void) {
+
+
+	
     char c = 'A';
     int height;
     
